@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="./styles/home.css" charset="utf-8">
+  <link rel="stylesheet" href="./styles/gachaLog.css" charset="utf-8">
+  <script src="./scripts/homeScript.js"></script>
+  <script src="./scripts/gachaLogFunc.js"></script>
+  <script src="./scripts/sqlFunc.js"></script>
+  <script src="./scripts/gwFuncs.js"></script>
+  <script type='text/javascript'>
+          var loggedUser = ""; 
+  </script>
+</head>
+
+<body onload="checkLoginStatus()">
+  <div class="tabVerContent" id="GachaLog" setting="na">
+    <div class="menuVertNavBar" id="menuVertNavBar">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+      <a href="javascript:void(0)" onclick="">Add Data</a>
+      <a href="javascript:void(0)" onclick="CreateTableData()">View Data</a>
+    </div> 
+  </div>
+  <div id="main">
+    <title>GBF Buddy Homepage</title>
+    <h1>Homepage</h1>
+    <div class="menuNavBar">
+      <button class="tablinks" onclick="LoadGachaSideBar()">Gacha Log</button>
+      <button class="tablinks" onclick="LoadDetails()">GW Teams</button>
+      <button class="tablinks" onclick="loadLoginForm()" id="loginBtn">Login</button>
+      <button class="tablinks" id="signoutBtn" style.display='none' onclick="logout()">Log out</button>
+    </div>
+    <p id="debug">Test debugger</p>
+    <div id="login" class="modal">
+      <form class="modal-content animate">
+        <div class="imgcontainer">
+          <span onclick="closeForm()" class="close"
+            title="Close Modal">&times;</span>
+          <img src="./assests/login2.png" alt="Avatar" class="avatar">               
+        </div>
+        <audio controls autoplay style="display: none;" id="player">
+          <source src="./assests/245_tsukinohikari_00a.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+        </audio>
+        <div class="container">
+          <label for="uname"><b>Username</b></label>
+          <input type="text" placeholder="Enter Username" name="uname" id="username" required>
+          <label for="psw"><b>Password</b></label>
+          <input type="password" placeholder="Enter Password" name="psw" id="password" required>
+          <button type="button" class="loginButton" onclick="loginAuth()">Login</button>
+          <label>
+            <input type="checkbox" checked="checked" name="remember"> Remember me
+          </label>
+        </div>
+        <div class="container" style="background-color:#f1f1f1">
+          <button type="button" onclick="document.getElementById('login').style.display='none'"
+            class="cancelbtn">Cancel</button>
+          <span class="psw">Forgot <a href="#" onclick="helpPass()">password?</a></span>
+        </div>
+      </form>
+    </div>
+    <div class="addDataGacha" id="GachaDataAdd"  style.display='none'>
+      <div>
+        <label for="nName"><b>Username:</b></label>
+        <input type="text" placeholder="Enter Username" name="nName" id="nName">
+      </div>
+      <div class="gachaButtons">
+        <button id="singleDraw" onclick="drawSingle()">Single Draw</button>
+        <button id="tenDraw" onclick="drawTen()">10 Draw</button>
+        <button id="resetBtn" onclick="resetDraws()">Reset</button>
+      </div>
+      <div>
+      </div>
+      <label for="crystalsUsed"><b>Crystals Used</b></label>
+      <input type="text" placeholder="e.g 3000" name="crystalsUsed" id="crystalsUsed" required readonly>
+      <div>
+        <label for="gachatime">Time of Gacha (date and time):</label>
+        <input type="date" id="gachatime" name="gachaDate" min="2022-01-01">
+      </div>     
+      <label for="vol">New SSR Chars obtained (between 0 and 99):</label>
+      <input type="number" id="vol" name="vol" min="0" max="99" onchange="loadCharacterDropdown()">
+      <div id="characterAdderSeg">
+        <label for="characterList">SSR Character obtained</label>
+        <select id="characterList" name="characterList" size="1"></select>
+        <button id="characterObtained" onclick="addCharacterToWall()">Add Character</button>
+        <div id="characterWall">
+        </div>
+        <button type="button" onclick="loadGachaLogFile()">Add to Gacha Log Database</button>
+      </div> 
+      <div>
+        <button type="button">Cancel</button>
+      </div>
+    </div>
+    <div class="dropdownGacha" id="dropdownGacha">
+      <button onclick="gachaDropDownNav()" class="dropbtn">Dropdown</button>
+      <div id="gachaDrop" class="dropdown-content">
+        <a href="#">Link 1</a>
+      </div>
+    </div>
+    <div class="logData" id="log">
+      <table>
+        <thead>
+        <tr class="table100-head">
+        <th class="column1">ID</th>
+        <th class="column2">Date</th>
+        <th class="column3">Spark</th>
+        </tr>
+        </thead>
+        <tbody id="tbod">
+        <tr>
+        <td class="column1">-1</td>
+        <td class="column2">6/02/2023</td>
+        <td class="column3">N</td>
+        </tr>
+        </tbody>
+        </table>
+    </div>
+  </div> 
+</body>
+
+</html>

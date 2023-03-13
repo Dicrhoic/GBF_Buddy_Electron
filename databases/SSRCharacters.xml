@@ -1,0 +1,1738 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<characters>
+  <character series="Premium">
+    <name>Abby</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/2/27/Npc_m_3040284000_01.jpg/150px-Npc_m_3040284000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Aglovale</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/6/63/Npc_m_3040192000_01.jpg/150px-Npc_m_3040192000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Albert (Dark)</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/f/fd/Npc_m_3040334000_01.jpg/150px-Npc_m_3040334000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Aliza</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/6/60/Npc_m_3040083000_01.jpg/150px-Npc_m_3040083000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Anna (SSR)</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/b/be/Npc_m_3040402000_01.jpg/150px-Npc_m_3040402000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Anne</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/2/22/Npc_m_3040132000_01.jpg/150px-Npc_m_3040132000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Anthuria</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/2/20/Npc_m_3040103000_01.jpg/150px-Npc_m_3040103000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Arthur</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/e/e4/Npc_m_3040358000_01.jpg/150px-Npc_m_3040358000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Arulumaya (Light)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/7/78/Npc_m_3040367000_01.jpg/150px-Npc_m_3040367000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Athena</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/2/2d/Npc_m_3040202000_01.jpg/150px-Npc_m_3040202000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Ayer</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/2/2b/Npc_m_3040084000_01.jpg/150px-Npc_m_3040084000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Azazel</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/9/9b/Npc_m_3040137000_01.jpg/150px-Npc_m_3040137000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Azusa</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/6/61/Npc_m_3040359000_01.jpg/150px-Npc_m_3040359000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Baal</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/d/d0/Npc_m_3040215000_01.jpg/150px-Npc_m_3040215000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Baotorda (SSR)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/4/46/Npc_m_3040124000_01.jpg/150px-Npc_m_3040124000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Beatrix (Earth)</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/1/14/Npc_m_3040328000_01.jpg/150px-Npc_m_3040328000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Benjamin</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/c/c9/Npc_m_3040366000_01.jpg/150px-Npc_m_3040366000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Cagliostro (Dark)</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/1/15/Npc_m_3040120000_01.jpg/150px-Npc_m_3040120000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Charlotta (Light)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/d/d2/Npc_m_3040194000_01.jpg/150px-Npc_m_3040194000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Chat Noir</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/c/c0/Npc_m_3040093000_01.jpg/150px-Npc_m_3040093000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Clarisse (Light)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/3/37/Npc_m_3040121000_01.jpg/150px-Npc_m_3040121000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Colossus</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/e/e3/Npc_m_3040235000_01.jpg/150px-Npc_m_3040235000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Cucouroux (SSR)</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/1/18/Npc_m_3040159000_01.jpg/150px-Npc_m_3040159000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Cupitan</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/e/e9/Npc_m_3040379000_01.jpg/150px-Npc_m_3040379000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Dante and Freiheit</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/d/d8/Npc_m_3040205000_01.jpg/150px-Npc_m_3040205000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Danua (SSR)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/0/0f/Npc_m_3040256000_01.jpg/150px-Npc_m_3040256000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>De La Fille (Earth)</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/4/49/Npc_m_3040113000_01.jpg/150px-Npc_m_3040113000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Diantha</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/9/92/Npc_m_3040296000_01.jpg/150px-Npc_m_3040296000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Dorothy and Claudia</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/2/21/Npc_m_3040134000_01.jpg/150px-Npc_m_3040134000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Drang</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/1/16/Npc_m_3040269000_01.jpg/150px-Npc_m_3040269000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Elea</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/4/4f/Npc_m_3040403000_01.jpg/150px-Npc_m_3040403000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Elmott (SSR)</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/1/1e/Npc_m_3040356000_01.jpg/150px-Npc_m_3040356000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Enyo</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/0/0d/Npc_m_3040365000_01.jpg/150px-Npc_m_3040365000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Eustace (Dark)</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/6/67/Npc_m_3040198000_01.jpg/150px-Npc_m_3040198000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Ewiyar</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/1/19/Npc_m_3040378000_01.jpg/150px-Npc_m_3040378000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Farrah and Juri</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/8/81/Npc_m_3040325000_01.jpg/150px-Npc_m_3040325000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Feather (SSR)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/2/22/Npc_m_3040304000_01.jpg/150px-Npc_m_3040304000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Filene</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/b/bd/Npc_m_3040314000_01.jpg/150px-Npc_m_3040314000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Fiorito</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/3/35/Npc_m_3040305000_01.jpg/150px-Npc_m_3040305000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Florence</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/b/b4/Npc_m_3040299000_01.jpg/150px-Npc_m_3040299000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Forte</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/7/7f/Npc_m_3040086000_01.jpg/150px-Npc_m_3040086000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Freezie</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/4/4f/Npc_m_3040182000_01.jpg/150px-Npc_m_3040182000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Freyr</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/3/3a/Npc_m_3040387000_01.jpg/150px-Npc_m_3040387000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Gawain (Light)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/6/6b/Npc_m_3040298000_01.jpg/150px-Npc_m_3040298000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Grea</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/1/15/Npc_m_3040130000_01.jpg/150px-Npc_m_3040130000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Grea (Light)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/0/04/Npc_m_3040355000_01.jpg/150px-Npc_m_3040355000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Gwynne</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/a/a1/Npc_m_3040406000_01.jpg/150px-Npc_m_3040406000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Hallessena</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/c/c4/Npc_m_3040079000_01.jpg/150px-Npc_m_3040079000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Heles (Wind)</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/e/e2/Npc_m_3040208000_01.jpg/150px-Npc_m_3040208000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Herja (SSR)</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/1/1c/Npc_m_3040271000_01.jpg/150px-Npc_m_3040271000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Illnott</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/8/87/Npc_m_3040277000_01.jpg/150px-Npc_m_3040277000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Ilsa</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/3/3f/Npc_m_3040148000_01.jpg/150px-Npc_m_3040148000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Ilsa (Light)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/9/95/Npc_m_3040258000_01.jpg/150px-Npc_m_3040258000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Ippatsu (SSR)</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/1/1a/Npc_m_3040382000_01.jpg/150px-Npc_m_3040382000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Isaac</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/7/7f/Npc_m_3040327000_01.jpg/150px-Npc_m_3040327000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Izmir</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/b/be/Npc_m_3040100000_01.jpg/150px-Npc_m_3040100000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Jamil (SSR)</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/e/e1/Npc_m_3040404000_01.jpg/150px-Npc_m_3040404000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Jeanne d'Arc (Dark)</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/6/6f/Npc_m_3040080000_01.jpg/150px-Npc_m_3040080000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Jin</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/6/66/Npc_m_3040257000_01.jpg/150px-Npc_m_3040257000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Juliet</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/b/b4/Npc_m_3040096000_01.jpg/150px-Npc_m_3040096000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Juliet (Water)</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/4/45/Npc_m_3040293000_01.jpg/150px-Npc_m_3040293000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Kolulu</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/b/b0/Npc_m_3040222000_01.jpg/150px-Npc_m_3040222000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Korwa</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/f/f9/Npc_m_3040081000_01.jpg/150px-Npc_m_3040081000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Kou</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/f/f7/Npc_m_3040242000_01.jpg/150px-Npc_m_3040242000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Ladiva (SSR)</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/a/a5/Npc_m_3040217000_01.jpg/150px-Npc_m_3040217000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Lady Katapillar and Vira</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/f/fc/Npc_m_3040116000_01.jpg/150px-Npc_m_3040116000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Laguna (SSR)</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/c/c6/Npc_m_3040394000_01.jpg/150px-Npc_m_3040394000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Lamretta (SSR)</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/b/b7/Npc_m_3040319000_01.jpg/150px-Npc_m_3040319000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Lancelot (Wind)</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/b/ba/Npc_m_3040140000_01.jpg/150px-Npc_m_3040140000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Lancelot and Vane</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/0/05/Npc_m_3040191000_01.jpg/150px-Npc_m_3040191000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Lecia (Water)</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/c/cf/Npc_m_3040263000_01.jpg/150px-Npc_m_3040263000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Lennah (Earth)</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/3/35/Npc_m_3040340000_01.jpg/150px-Npc_m_3040340000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Levin Sisters</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/1/14/Npc_m_3040193000_01.jpg/150px-Npc_m_3040193000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Lilele (Fire)</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/d/d1/Npc_m_3040383000_01.jpg/150px-Npc_m_3040383000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Lucius (SSR)</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/7/78/Npc_m_3040254000_01.jpg/150px-Npc_m_3040254000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Lunalu (Light)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/0/0d/Npc_m_3040364000_01.jpg/150px-Npc_m_3040364000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Lunalu (SSR)</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/4/4a/Npc_m_3040172000_01.jpg/150px-Npc_m_3040172000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Macula Marius</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/9/9f/Npc_m_3040213000_01.jpg/150px-Npc_m_3040213000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Manamel</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/1/15/Npc_m_3040401000_01.jpg/150px-Npc_m_3040401000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Marquiares</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/8/8d/Npc_m_3040108000_01.jpg/150px-Npc_m_3040108000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Medusa</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/e/e3/Npc_m_3040214000_01.jpg/150px-Npc_m_3040214000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Melissabelle</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/3/32/Npc_m_3040102000_01.jpg/150px-Npc_m_3040102000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Milleore and Sahli Lao</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/7/79/Npc_m_3040272000_01.jpg/150px-Npc_m_3040272000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Mireille and Risette</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/3/3e/Npc_m_3040302000_01.jpg/150px-Npc_m_3040302000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Mishra (SSR)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/d/d7/Npc_m_3040317000_01.jpg/150px-Npc_m_3040317000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Morrigna</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/b/b6/Npc_m_3040218000_01.jpg/150px-Npc_m_3040218000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Ms. Miranda</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/9/96/Npc_m_3040339000_01.jpg/150px-Npc_m_3040339000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Naoise</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/e/e5/Npc_m_3040281000_01.jpg/150px-Npc_m_3040281000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Naoise (Fire)</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/0/0d/Npc_m_3040354000_01.jpg/150px-Npc_m_3040354000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Nectar</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/f/fd/Npc_m_3040318000_01.jpg/150px-Npc_m_3040318000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Nemone</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/a/a9/Npc_m_3040085000_01.jpg/150px-Npc_m_3040085000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Nezha</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/7/74/Npc_m_3040332000_01.jpg/150px-Npc_m_3040332000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Nicholas</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/f/f3/Npc_m_3040156000_01.jpg/150px-Npc_m_3040156000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Nicholas (Light)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/5/58/Npc_m_3040315000_01.jpg/150px-Npc_m_3040315000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Pengy (SSR)</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/c/c8/Npc_m_3040282000_01.jpg/150px-Npc_m_3040282000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Percival (Light)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/c/ca/Npc_m_3040279000_01.jpg/150px-Npc_m_3040279000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Predator (SSR)</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/8/8f/Npc_m_3040278000_01.jpg/150px-Npc_m_3040278000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Randall (SSR)</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/f/f0/Npc_m_3040368000_01.jpg/150px-Npc_m_3040368000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Razia</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/5/5b/Npc_m_3040109000_01.jpg/150px-Npc_m_3040109000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Robomi</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/d/d1/Npc_m_3040155000_01.jpg/150px-Npc_m_3040155000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Romeo</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/2/20/Npc_m_3040098000_01.jpg/150px-Npc_m_3040098000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Rosamia (SSR)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/c/c2/Npc_m_3040087000_01.jpg/150px-Npc_m_3040087000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Sara (Light)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/9/97/Npc_m_3040236000_01.jpg/150px-Npc_m_3040236000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Satyr</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/8/81/Npc_m_3040280000_01.jpg/150px-Npc_m_3040280000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Satyr (Earth)</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/8/84/Npc_m_3040375000_01.jpg/150px-Npc_m_3040375000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Scathacha</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/6/6a/Npc_m_3040122000_01.jpg/150px-Npc_m_3040122000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Selfira</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/2/2f/Npc_m_3040175000_01.jpg/150px-Npc_m_3040175000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Sen (SSR)</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/4/41/Npc_m_3040204000_01.jpg/150px-Npc_m_3040204000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Shion</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/9/97/Npc_m_3040333000_01.jpg/150px-Npc_m_3040333000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Shitori</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/8/8d/Npc_m_3040244000_01.jpg/150px-Npc_m_3040244000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Sho</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/4/45/Npc_m_3040338000_01.jpg/150px-Npc_m_3040338000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Shura</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/6/6d/Npc_m_3040273000_01.jpg/150px-Npc_m_3040273000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Siegfried (Fire)</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/f/fb/Npc_m_3040237000_01.jpg/150px-Npc_m_3040237000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Silva (Light)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/3/31/Npc_m_3040187000_01.jpg/150px-Npc_m_3040187000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Skull and Balurga</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/c/c7/Npc_m_3040396000_01.jpg/150px-Npc_m_3040396000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Societte (Fire)</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/8/8e/Npc_m_3040095000_01.jpg/150px-Npc_m_3040095000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Societte (Wind)</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/d/dd/Npc_m_3040241000_01.jpg/150px-Npc_m_3040241000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Sophia (Water)</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/d/de/Npc_m_3040397000_01.jpg/150px-Npc_m_3040397000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Soriz (SSR)</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/d/da/Npc_m_3040170000_01.jpg/150px-Npc_m_3040170000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Stan and Aliza</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/4/41/Npc_m_3040233000_01.jpg/150px-Npc_m_3040233000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Sturm</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/4/4d/Npc_m_3040268000_01.jpg/150px-Npc_m_3040268000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Sutera (SSR)</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/0/05/Npc_m_3040303000_01.jpg/150px-Npc_m_3040303000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Sylph</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/b/b2/Npc_m_3040388000_01.jpg/150px-Npc_m_3040388000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Tabina</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/7/70/Npc_m_3040234000_01.jpg/150px-Npc_m_3040234000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Tanya (SSR)</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/4/44/Npc_m_3040203000_01.jpg/150px-Npc_m_3040203000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Therese (SSR)</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/0/04/Npc_m_3040149000_01.jpg/150px-Npc_m_3040149000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Tiamat</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/8/89/Npc_m_3040152000_01.jpg/150px-Npc_m_3040152000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Tikoh</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/4/44/Npc_m_3040337000_01.jpg/150px-Npc_m_3040337000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Troue</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/c/ca/Npc_m_3040336000_01.jpg/150px-Npc_m_3040336000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Tsubasa</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/a/a9/Npc_m_3040180000_01.jpg/150px-Npc_m_3040180000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Vane (SSR)</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/6/6c/Npc_m_3040117000_01.jpg/150px-Npc_m_3040117000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Vania and Malinda</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/0/0d/Npc_m_3040264000_01.jpg/150px-Npc_m_3040264000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Vaseraga (Earth)</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/2/2a/Npc_m_3040146000_01.jpg/150px-Npc_m_3040146000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Vaseraga (Fire)</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/2/25/Npc_m_3040324000_01.jpg/150px-Npc_m_3040324000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Veight</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/3/3f/Npc_m_3040094000_01.jpg/150px-Npc_m_3040094000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Vira (Wind)</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/4/41/Npc_m_3040211000_01.jpg/150px-Npc_m_3040211000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Wulf and Renie</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/9/9b/Npc_m_3040174000_01.jpg/150px-Npc_m_3040174000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Yggdrasil</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/4/45/Yggdrasil_iconA.jpg/150px-Yggdrasil_iconA.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Yggdrasil (Wind)</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/9/9a/Npc_m_3040380000_01.jpg/150px-Npc_m_3040380000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Yngwie</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/d/d3/Npc_m_3040088000_01.jpg/150px-Npc_m_3040088000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Yodarha (Wind)</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/c/ce/Npc_m_3040259000_01.jpg/150px-Npc_m_3040259000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>You</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/9/98/Npc_m_3040393000_01.jpg/150px-Npc_m_3040393000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Yuel (Water)</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/8/83/Npc_m_3040138000_01.jpg/150px-Npc_m_3040138000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Yuisis</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/1/1a/Npc_m_3040105000_01.jpg/150px-Npc_m_3040105000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Yuisis (Fire)</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/6/65/Npc_m_3040253000_01.jpg/150px-Npc_m_3040253000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Yurius</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/3/38/Npc_m_3040199000_01.jpg/150px-Npc_m_3040199000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Zehek (SSR)</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/5/58/Npc_m_3040316000_01.jpg/150px-Npc_m_3040316000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Zeta (Dark)</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/f/f4/Npc_m_3040112000_01.jpg/150px-Npc_m_3040112000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Zeta (Water)</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/3/39/Npc_m_3040323000_01.jpg/150px-Npc_m_3040323000_01.jpg</image>
+  </character>
+  <character series="Premium">
+    <name>Zooey</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/5/56/Npc_m_3040150000_01.jpg/150px-Npc_m_3040150000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Agielba</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/4/4b/Npc_m_3040017000_01.jpg/150px-Npc_m_3040017000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Albert</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/5/5d/Npc_m_3040045000_01.jpg/150px-Npc_m_3040045000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Aletheia</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/b/bf/Npc_m_3040002000_01.jpg/150px-Npc_m_3040002000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Altair</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/a/ac/Npc_m_3040001000_01.jpg/150px-Npc_m_3040001000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Amira</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/1/19/Npc_m_3040051000_01.jpg/150px-Npc_m_3040051000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Aoidos</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/3/34/Npc_m_3040076000_01.jpg/150px-Npc_m_3040076000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Arriet</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/0/0b/Npc_m_3040058000_01.jpg/150px-Npc_m_3040058000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Arulumaya</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/9/9f/Npc_m_3040019000_01.jpg/150px-Npc_m_3040019000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Beatrix</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/9/9b/Npc_m_3040070000_01.jpg/150px-Npc_m_3040070000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Cagliostro</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/8/8e/Npc_m_3040009000_01.jpg/150px-Npc_m_3040009000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Carmelina</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/9/9b/Npc_m_3040042000_01.jpg/150px-Npc_m_3040042000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Catherine</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/5/56/Npc_m_3040074000_01.jpg/150px-Npc_m_3040074000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Cerberus</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/f/fb/Npc_m_3040016000_01.jpg/150px-Npc_m_3040016000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Charlotta</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/2/2f/Npc_m_3040010000_01.jpg/150px-Npc_m_3040010000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Clarisse</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/c/c4/Npc_m_3040046000_01.jpg/150px-Npc_m_3040046000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>De La Fille</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/d/d0/Npc_m_3040004000_01.jpg/150px-Npc_m_3040004000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Eustace</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/e/e2/Npc_m_3040069000_01.jpg/150px-Npc_m_3040069000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Feena</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/e/eb/Npc_m_3040061000_01.jpg/150px-Npc_m_3040061000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Ferry (SSR)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/4/40/Npc_m_3040073000_01.jpg/150px-Npc_m_3040073000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Gawain</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/d/d7/Npc_m_3040000000_01.jpg/150px-Npc_m_3040000000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Ghandagoza</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/6/65/Npc_m_3040052000_01.jpg/150px-Npc_m_3040052000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Heles</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/6/6e/Npc_m_3040060000_01.jpg/150px-Npc_m_3040060000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Jeanne d'Arc</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/e/e9/Npc_m_3040040000_01.jpg/150px-Npc_m_3040040000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Lady Grey</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/d/d0/Npc_m_3040005000_01.jpg/150px-Npc_m_3040005000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Lancelot</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/9/92/Npc_m_3040023000_01.jpg/150px-Npc_m_3040023000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Lennah</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/e/eb/Npc_m_3040021000_01.jpg/150px-Npc_m_3040021000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Lilele</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/0/07/Npc_m_3040066000_01.jpg/150px-Npc_m_3040066000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Lily</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/e/e7/Npc_m_3040007000_01.jpg/150px-Npc_m_3040007000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Magisa</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/0/05/Npc_m_3040011000_01.jpg/150px-Npc_m_3040011000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Melleau</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/6/68/Npc_m_3040022000_01.jpg/150px-Npc_m_3040022000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Metera</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/f/f5/Npc_m_3040012000_01.jpg/150px-Npc_m_3040012000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Metera (Fire)</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/9/9e/Npc_m_3040072000_01.jpg/150px-Npc_m_3040072000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Narmaya</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/a/a2/Npc_m_3040063000_01.jpg/150px-Npc_m_3040063000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Nezahualpilli</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/9/9f/Npc_m_3040003000_01.jpg/150px-Npc_m_3040003000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Percival</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/7/79/Npc_m_3040050000_01.jpg/150px-Npc_m_3040050000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Petra (SSR)</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/a/a9/Npc_m_3040047000_01.jpg/150px-Npc_m_3040047000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Sara</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/b/b7/Npc_m_3040041000_01.jpg/150px-Npc_m_3040041000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Sarunan</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/c/ca/Npc_m_3040008000_01.jpg/150px-Npc_m_3040008000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Sarunan (Dark)</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/4/4f/Npc_m_3040048000_01.jpg/150px-Npc_m_3040048000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Seruel</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/a/af/Npc_m_3040013000_01.jpg/150px-Npc_m_3040013000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Siegfried</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/3/3a/Npc_m_3040025000_01.jpg/150px-Npc_m_3040025000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Silva</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/8/82/Npc_m_3040049000_01.jpg/150px-Npc_m_3040049000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Societte</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/4/45/Npc_m_3040044000_01.jpg/150px-Npc_m_3040044000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Sophia</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/2/29/Npc_m_3040024000_01.jpg/150px-Npc_m_3040024000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Vania</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/1/1d/Npc_m_3040057000_01.jpg/150px-Npc_m_3040057000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Vaseraga</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/5/58/Npc_m_3040029000_01.jpg/150px-Npc_m_3040029000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Vira (SSR)</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/1/16/Npc_m_3040043000_01.jpg/150px-Npc_m_3040043000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Yodarha (SSR)</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/e/e5/Npc_m_3040064000_01.jpg/150px-Npc_m_3040064000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Yuel</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/6/63/Npc_m_3040006000_01.jpg/150px-Npc_m_3040006000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Zahlhamelina</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/a/a1/Npc_m_3040075000_01.jpg/150px-Npc_m_3040075000_01.jpg</image>
+  </character>
+  <character series="Classic">
+    <name>Zeta</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/b/bd/Npc_m_3040028000_01.jpg/150px-Npc_m_3040028000_01.jpg</image>
+  </character>
+  <character series="12 Generals">
+    <name>Andira</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/4/4e/Npc_m_3040071000_01.jpg/150px-Npc_m_3040071000_01.jpg</image>
+  </character>
+  <character series="12 Generals">
+    <name>Anila</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/b/b0/Npc_m_3040027000_01.jpg/150px-Npc_m_3040027000_01.jpg</image>
+  </character>
+  <character series="12 Generals">
+    <name>Catura</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/7/7b/Npc_m_3040313000_01.jpg/150px-Npc_m_3040313000_01.jpg</image>
+  </character>
+  <character series="12 Generals">
+    <name>Cidala</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/1/14/Npc_m_3040377000_01.jpg/150px-Npc_m_3040377000_01.jpg</image>
+  </character>
+  <character series="12 Generals">
+    <name>Kumbhira</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/b/bc/Npc_m_3040197000_01.jpg/150px-Npc_m_3040197000_01.jpg</image>
+  </character>
+  <character series="12 Generals">
+    <name>Mahira</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/0/02/Npc_m_3040107000_01.jpg/150px-Npc_m_3040107000_01.jpg</image>
+  </character>
+  <character series="12 Generals">
+    <name>Vajra</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/2/21/Npc_m_3040147000_01.jpg/150px-Npc_m_3040147000_01.jpg</image>
+  </character>
+  <character series="12 Generals">
+    <name>Vikala</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/8/85/Npc_m_3040252000_01.jpg/150px-Npc_m_3040252000_01.jpg</image>
+  </character>
+  <character series="Valentine">
+    <name>Aglovale (Valentine)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/6/6a/Npc_m_3040322000_01.jpg/150px-Npc_m_3040322000_01.jpg</image>
+  </character>
+  <character series="Valentine">
+    <name>Cassius (Valentine)</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/c/c9/Npc_m_3040384000_01.jpg/150px-Npc_m_3040384000_01.jpg</image>
+  </character>
+  <character series="Valentine">
+    <name>Clarisse (Valentine)</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/9/94/Npc_m_3040206000_01.jpg/150px-Npc_m_3040206000_01.jpg</image>
+  </character>
+  <character series="Valentine">
+    <name>Grimnir (Valentine)</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/f/fc/Npc_m_3040261000_01.jpg/150px-Npc_m_3040261000_01.jpg</image>
+  </character>
+  <character series="Valentine">
+    <name>Ladiva (Valentine)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/0/0d/Npc_m_3040386000_01.jpg/150px-Npc_m_3040386000_01.jpg</image>
+  </character>
+  <character series="Valentine">
+    <name>Medusa (Valentine)</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/d/d7/Npc_m_3040151000_01.jpg/150px-Npc_m_3040151000_01.jpg</image>
+  </character>
+  <character series="Valentine">
+    <name>Melissabelle (Valentine)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/c/cd/Npc_m_3040207000_01.jpg/150px-Npc_m_3040207000_01.jpg</image>
+  </character>
+  <character series="Valentine">
+    <name>Monika (Valentine)</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/e/ea/Npc_m_3040321000_01.jpg/150px-Npc_m_3040321000_01.jpg</image>
+  </character>
+  <character series="Valentine">
+    <name>Scathacha (Valentine)</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/5/5f/Npc_m_3040260000_01.jpg/150px-Npc_m_3040260000_01.jpg</image>
+  </character>
+  <character series="Valentine">
+    <name>Vira (Valentine)</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/9/98/Npc_m_3040385000_01.jpg/150px-Npc_m_3040385000_01.jpg</image>
+  </character>
+  <character series="Halloween">
+    <name>Azazel (Halloween)</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/3/38/Npc_m_3040300000_01.jpg/150px-Npc_m_3040300000_01.jpg</image>
+  </character>
+  <character series="Halloween">
+    <name>Cagliostro (Halloween)</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/2/22/Npc_m_3040062000_01.jpg/150px-Npc_m_3040062000_01.jpg</image>
+  </character>
+  <character series="Halloween">
+    <name>Charlotta (Halloween)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/6/64/Npc_m_3040020000_01.jpg/150px-Npc_m_3040020000_01.jpg</image>
+  </character>
+  <character series="Halloween">
+    <name>Cucouroux (Halloween)</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/7/76/Npc_m_3040361000_01.jpg/150px-Npc_m_3040361000_01.jpg</image>
+  </character>
+  <character series="Halloween">
+    <name>Danua (Halloween)</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/1/19/Npc_m_3040135000_01.jpg/150px-Npc_m_3040135000_01.jpg</image>
+  </character>
+  <character series="Halloween">
+    <name>Eustace (Halloween)</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/a/ad/Npc_m_3040099000_01.jpg/150px-Npc_m_3040099000_01.jpg</image>
+  </character>
+  <character series="Halloween">
+    <name>Hallessena (Halloween)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/6/60/Npc_m_3040240000_01.jpg/150px-Npc_m_3040240000_01.jpg</image>
+  </character>
+  <character series="Halloween">
+    <name>Lady Grey (Halloween)</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/4/4e/Npc_m_3040189000_01.jpg/150px-Npc_m_3040189000_01.jpg</image>
+  </character>
+  <character series="Halloween">
+    <name>Rosetta (Halloween)</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/b/bb/Npc_m_3040301000_01.jpg/150px-Npc_m_3040301000_01.jpg</image>
+  </character>
+  <character series="Halloween">
+    <name>Vane (Halloween)</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/e/ed/Npc_m_3040360000_01.jpg/150px-Npc_m_3040360000_01.jpg</image>
+  </character>
+  <character series="Halloween">
+    <name>Zeta and Vaseraga (Halloween)</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/2/25/Npc_m_3040239000_01.jpg/150px-Npc_m_3040239000_01.jpg</image>
+  </character>
+  <character series="Holiday">
+    <name>Altair (Holiday)</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/8/8f/Npc_m_3040373000_01.jpg/150px-Npc_m_3040373000_01.jpg</image>
+  </character>
+  <character series="Holiday">
+    <name>Anthuria (Holiday)</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/6/68/Npc_m_3040369000_01.jpg/150px-Npc_m_3040369000_01.jpg</image>
+  </character>
+  <character series="Holiday">
+    <name>Arulumaya (Holiday)</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/d/de/Npc_m_3040104000_01.jpg/150px-Npc_m_3040104000_01.jpg</image>
+  </character>
+  <character series="Holiday">
+    <name>Clarisse (Holiday)</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/1/18/Npc_m_3040067000_01.jpg/150px-Npc_m_3040067000_01.jpg</image>
+  </character>
+  <character series="Holiday">
+    <name>Lily (Holiday)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/f/f1/Npc_m_3040311000_01.jpg/150px-Npc_m_3040311000_01.jpg</image>
+  </character>
+  <character series="Holiday">
+    <name>Magisa (Holiday)</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/e/e8/Npc_m_3040247000_01.jpg/150px-Npc_m_3040247000_01.jpg</image>
+  </character>
+  <character series="Holiday">
+    <name>Mahira (Holiday)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/a/af/Npc_m_3040372000_01.jpg/150px-Npc_m_3040372000_01.jpg</image>
+  </character>
+  <character series="Holiday">
+    <name>Mary (Holiday)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/e/ea/Npc_m_3040143000_01.jpg/150px-Npc_m_3040143000_01.jpg</image>
+  </character>
+  <character series="Holiday">
+    <name>Meteon (Holiday)</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/5/53/Npc_m_3040246000_01.jpg/150px-Npc_m_3040246000_01.jpg</image>
+  </character>
+  <character series="Holiday">
+    <name>Metera (Holiday)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/8/8e/Npc_m_3040195000_01.jpg/150px-Npc_m_3040195000_01.jpg</image>
+  </character>
+  <character series="Holiday">
+    <name>Mirin (Holiday)</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/f/f6/Npc_m_3040307000_01.jpg/150px-Npc_m_3040307000_01.jpg</image>
+  </character>
+  <character series="Holiday">
+    <name>Narmaya (Holiday)</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/7/70/Npc_m_3040249000_01.jpg/150px-Npc_m_3040249000_01.jpg</image>
+  </character>
+  <character series="Holiday">
+    <name>Nemone (Holiday)</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/1/12/Npc_m_3040306000_01.jpg/150px-Npc_m_3040306000_01.jpg</image>
+  </character>
+  <character series="Holiday">
+    <name>Rosetta (Holiday)</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/8/8e/Npc_m_3040026000_01.jpg/150px-Npc_m_3040026000_01.jpg</image>
+  </character>
+  <character series="Holiday">
+    <name>Seruel (Holiday)</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/3/3f/Npc_m_3040250000_01.jpg/150px-Npc_m_3040250000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Alexiel</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/4/42/Npc_m_3040158000_01.jpg/150px-Npc_m_3040158000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Black Knight</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/e/e9/Npc_m_3040082000_01.jpg/150px-Npc_m_3040082000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Cagliostro (Grand)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/5/58/Npc_m_3040320000_01.jpg/150px-Npc_m_3040320000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Cain (Grand)</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/8/82/Npc_m_3040171000_01.jpg/150px-Npc_m_3040171000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Drang (Grand)</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/9/93/Npc_m_3040119000_01.jpg/150px-Npc_m_3040119000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Eugen (Grand)</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/c/cd/Npc_m_3040077000_01.jpg/150px-Npc_m_3040077000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Europa</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/2/25/Npc_m_3040190000_01.jpg/150px-Npc_m_3040190000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Fediel</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/e/e8/Npc_m_3040376000_01.jpg/150px-Npc_m_3040376000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Ferry (Grand)</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/8/86/Npc_m_3040209000_01.jpg/150px-Npc_m_3040209000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Galleon</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/3/34/Npc_m_3040405000_01.jpg/150px-Npc_m_3040405000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Golden Knight</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/6/62/Npc_m_3040297000_01.jpg/150px-Npc_m_3040297000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Grimnir</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/d/de/Npc_m_3040212000_01.jpg/150px-Npc_m_3040212000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Helel ben Shalem</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/3/37/Npc_m_3040251000_01.jpg/150px-Npc_m_3040251000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Io (Grand)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/1/19/Npc_m_3040065000_01.jpg/150px-Npc_m_3040065000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Jeanne d'Arc (Grand)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/7/7e/Npc_m_3040245000_01.jpg/150px-Npc_m_3040245000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Katalina (Grand)</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/7/75/Npc_m_3040054000_01.jpg/150px-Npc_m_3040054000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Lancelot (Grand)</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/b/b7/Npc_m_3040374000_01.jpg/150px-Npc_m_3040374000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Lecia (Grand)</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/b/be/Npc_m_3040101000_01.jpg/150px-Npc_m_3040101000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Leona (Grand)</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/c/c5/Npc_m_3040285000_01.jpg/150px-Npc_m_3040285000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Lich</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/7/72/Npc_m_3040357000_01.jpg/150px-Npc_m_3040357000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Lucio</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/d/de/Npc_m_3040106000_01.jpg/150px-Npc_m_3040106000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Monika (Grand)</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/f/fe/Npc_m_3040238000_01.jpg/150px-Npc_m_3040238000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Mugen</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/d/db/Npc_m_3040267000_01.jpg/150px-Npc_m_3040267000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Narmaya (Grand)</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/f/fa/Npc_m_3040335000_01.jpg/150px-Npc_m_3040335000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Nehan</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/8/83/Npc_m_3040341000_01.jpg/150px-Npc_m_3040341000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Noa (Grand)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/3/36/Npc_m_3040255000_01.jpg/150px-Npc_m_3040255000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Olivia</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/b/bc/Npc_m_3040145000_01.jpg/150px-Npc_m_3040145000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Orchid</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/c/c4/Npc_m_3040111000_01.jpg/150px-Npc_m_3040111000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Pholia</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/3/35/Npc_m_3040181000_01.jpg/150px-Npc_m_3040181000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Poseidon</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/9/9a/Npc_m_3040348000_01.jpg/150px-Npc_m_3040348000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Rackam (Grand)</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/2/28/Npc_m_3040059000_01.jpg/150px-Npc_m_3040059000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Rei</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/2/23/Npc_m_3040265000_01.jpg/150px-Npc_m_3040265000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Reinhardtzar (Grand)</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/1/15/Npc_m_3040274000_01.jpg/150px-Npc_m_3040274000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Rosetta (Grand)</name>
+    <element>wind</element>
+    <image>https://gbf.wiki//images/thumb/a/a1/Npc_m_3040068000_01.jpg/150px-Npc_m_3040068000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Sandalphon</name>
+    <element>earth</element>
+    <image>https://gbf.wiki//images/thumb/3/33/Npc_m_3040312000_01.jpg/150px-Npc_m_3040312000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Shiva</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/e/e1/Npc_m_3040196000_01.jpg/150px-Npc_m_3040196000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Sturm (Grand)</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/e/eb/Npc_m_3040115000_01.jpg/150px-Npc_m_3040115000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Vira (Grand)</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/6/6c/Npc_m_3040141000_01.jpg/150px-Npc_m_3040141000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Wamdus</name>
+    <element>water</element>
+    <image>https://gbf.wiki//images/thumb/1/14/Npc_m_3040419000_01.jpg/150px-Npc_m_3040419000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Wilnas</name>
+    <element>fire</element>
+    <image>https://gbf.wiki//images/thumb/9/93/Npc_m_3040381000_01.jpg/150px-Npc_m_3040381000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Yuni</name>
+    <element>light</element>
+    <image>https://gbf.wiki//images/thumb/7/73/Npc_m_3040390000_01.jpg/150px-Npc_m_3040390000_01.jpg</image>
+  </character>
+  <character series="Grand">
+    <name>Zooey (Grand)</name>
+    <element>dark</element>
+    <image>https://gbf.wiki//images/thumb/f/f3/Npc_m_3040092000_01.jpg/150px-Npc_m_3040092000_01.jpg</image>
+  </character>
+<character series="Summer/Yukata">
+	<name>Albert (Summer)</name>
+	<element>wind</element>
+	<image>https://gbf.wiki//images/thumb/e/e0/Npc_m_3040290000_01.jpg/150px-Npc_m_3040290000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Alexiel (Summer)</name>
+	<element>earth</element>
+	<image>https://gbf.wiki//images/thumb/6/60/Npc_m_3040232000_01.jpg/150px-Npc_m_3040232000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Amira (Summer)</name>
+	<element>dark</element>
+	<image>https://gbf.wiki//images/thumb/e/e6/Npc_m_3040287000_01.jpg/150px-Npc_m_3040287000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Andira (Summer)</name>
+	<element>water</element>
+	<image>https://gbf.wiki//images/thumb/f/fa/Npc_m_3040330000_01.jpg/150px-Npc_m_3040330000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Anila (Summer)</name>
+	<element>wind</element>
+	<image>https://gbf.wiki//images/thumb/2/2f/Npc_m_3040288000_01.jpg/150px-Npc_m_3040288000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Anthuria (Yukata)</name>
+	<element>dark</element>
+	<image>https://gbf.wiki//images/thumb/4/44/Npc_m_3040228000_01.jpg/150px-Npc_m_3040228000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Beatrix (Summer)</name>
+	<element>fire</element>
+	<image>https://gbf.wiki//images/thumb/c/cb/Npc_m_3040110000_01.jpg/150px-Npc_m_3040110000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Cagliostro (Summer)</name>
+	<element>water</element>
+	<image>https://gbf.wiki//images/thumb/1/14/Npc_m_3040225000_01.jpg/150px-Npc_m_3040225000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Clarisse (Summer)</name>
+	<element>water</element>
+	<image>https://gbf.wiki//images/thumb/a/ac/Npc_m_3040413000_01.jpg/150px-Npc_m_3040413000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Danua (Summer)</name>
+	<element>dark</element>
+	<image>https://gbf.wiki//images/thumb/2/21/Npc_m_3040055000_01.jpg/150px-Npc_m_3040055000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>De La Fille (Summer)</name>
+	<element>light</element>
+	<image>https://gbf.wiki//images/thumb/b/b3/Npc_m_3040014000_01.jpg/150px-Npc_m_3040014000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Diantha (Summer)</name>
+	<element>water</element>
+	<image>https://gbf.wiki//images/thumb/9/9e/Npc_m_3040129000_01.jpg/150px-Npc_m_3040129000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Europa (Summer)</name>
+	<element>water</element>
+	<image>https://gbf.wiki//images/thumb/d/df/Npc_m_3040226000_01.jpg/150px-Npc_m_3040226000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Eustace (Summer)</name>
+	<element>wind</element>
+	<image>https://gbf.wiki//images/thumb/9/9a/Npc_m_3040411000_01.jpg/150px-Npc_m_3040411000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Grea (Summer)</name>
+	<element>water</element>
+	<image>https://gbf.wiki//images/thumb/c/c4/Npc_m_3040179000_01.jpg/150px-Npc_m_3040179000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Halluel and Malluel (Summer)</name>
+	<element>light</element>
+	<image>https://gbf.wiki//images/thumb/d/d0/Npc_m_3040223000_01.jpg/150px-Npc_m_3040223000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Helel ben Shalem (Summer)</name>
+	<element>water</element>
+	<image>https://gbf.wiki//images/thumb/c/cc/Npc_m_3040351000_01.jpg/150px-Npc_m_3040351000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Heles (Summer)</name>
+	<element>light</element>
+	<image>https://gbf.wiki//images/thumb/f/f6/Npc_m_3040091000_01.jpg/150px-Npc_m_3040091000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Illnott (Summer)</name>
+	<element>earth</element>
+	<image>https://gbf.wiki//images/thumb/b/b5/Npc_m_3040345000_01.jpg/150px-Npc_m_3040345000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Ilsa (Summer)</name>
+	<element>fire</element>
+	<image>https://gbf.wiki//images/thumb/8/89/Npc_m_3040177000_01.jpg/150px-Npc_m_3040177000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Io (Summer)</name>
+	<element>fire</element>
+	<image>https://gbf.wiki//images/thumb/f/ff/Npc_m_3040015000_01.jpg/150px-Npc_m_3040015000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Izmir (Summer)</name>
+	<element>water</element>
+	<image>https://gbf.wiki//images/thumb/b/b9/Npc_m_3040126000_01.jpg/150px-Npc_m_3040126000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Izmir (Yukata)</name>
+	<element>fire</element>
+	<image>https://gbf.wiki//images/thumb/c/c6/Npc_m_3040343000_01.jpg/150px-Npc_m_3040343000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Jeanne d'Arc (Summer)</name>
+	<element>wind</element>
+	<image>https://gbf.wiki//images/thumb/5/56/Npc_m_3040154000_01.jpg/150px-Npc_m_3040154000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Jeanne d'Arc (Water Summer)</name>
+	<element>water</element>
+	<image>https://gbf.wiki//images/thumb/7/7f/Npc_m_3040420000_01.jpg/150px-Npc_m_3040420000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Jessica (Yukata)</name>
+	<element>earth</element>
+	<image>https://gbf.wiki//images/thumb/c/c2/Npc_m_3040227000_01.jpg/150px-Npc_m_3040227000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Kolulu (Summer)</name>
+	<element>water</element>
+	<image>https://gbf.wiki//images/thumb/1/19/Npc_m_3040283000_01.jpg/150px-Npc_m_3040283000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Korwa (Summer)</name>
+	<element>wind</element>
+	<image>https://gbf.wiki//images/thumb/a/a6/Npc_m_3040127000_01.jpg/150px-Npc_m_3040127000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Kumbhira (Summer)</name>
+	<element>fire</element>
+	<image>https://gbf.wiki//images/thumb/a/ab/Npc_m_3040329000_01.jpg/150px-Npc_m_3040329000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Lucio (Summer)</name>
+	<element>water</element>
+	<image>https://gbf.wiki//images/thumb/0/0a/Npc_m_3040286000_01.jpg/150px-Npc_m_3040286000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Magisa (Summer)</name>
+	<element>dark</element>
+	<image>https://gbf.wiki//images/thumb/e/e6/Npc_m_3040412000_01.jpg/150px-Npc_m_3040412000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Medusa (Summer)</name>
+	<element>fire</element>
+	<image>https://gbf.wiki//images/thumb/e/e3/Npc_m_3040389000_01.jpg/150px-Npc_m_3040389000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Meg (Summer)</name>
+	<element>dark</element>
+	<image>https://gbf.wiki//images/thumb/4/4d/Npc_m_3040346000_01.jpg/150px-Npc_m_3040346000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Metera (Summer)</name>
+	<element>earth</element>
+	<image>https://gbf.wiki//images/thumb/5/59/Npc_m_3040347000_01.jpg/150px-Npc_m_3040347000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Mimlemel (Summer)</name>
+	<element>fire</element>
+	<image>https://gbf.wiki//images/thumb/c/c4/Npc_m_3040292000_01.jpg/150px-Npc_m_3040292000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Mirin (Summer)</name>
+	<element>fire</element>
+	<image>https://gbf.wiki//images/thumb/4/47/Npc_m_3040409000_01.jpg/150px-Npc_m_3040409000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Naoise (Summer)</name>
+	<element>light</element>
+	<image>https://gbf.wiki//images/thumb/1/11/Npc_m_3040178000_01.jpg/150px-Npc_m_3040178000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Narmaya (Summer)</name>
+	<element>water</element>
+	<image>https://gbf.wiki//images/thumb/c/c2/Npc_m_3040089000_01.jpg/150px-Npc_m_3040089000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Narmaya (Yukata)</name>
+	<element>light</element>
+	<image>https://gbf.wiki//images/thumb/f/f3/Npc_m_3040392000_01.jpg/150px-Npc_m_3040392000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Percival (Summer)</name>
+	<element>fire</element>
+	<image>https://gbf.wiki//images/thumb/e/eb/Npc_m_3040090000_01.jpg/150px-Npc_m_3040090000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Rosamia (Yukata)</name>
+	<element>light</element>
+	<image>https://gbf.wiki//images/thumb/f/fa/Npc_m_3040289000_01.jpg/150px-Npc_m_3040289000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Rosetta (Summer)</name>
+	<element>earth</element>
+	<image>https://gbf.wiki//images/thumb/e/e6/Npc_m_3040176000_01.jpg/150px-Npc_m_3040176000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Sandalphon (Summer)</name>
+	<element>water</element>
+	<image>https://gbf.wiki//images/thumb/b/b1/Npc_m_3040224000_01.jpg/150px-Npc_m_3040224000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Shion (Summer)</name>
+	<element>wind</element>
+	<image>https://gbf.wiki//images/thumb/c/c4/Npc_m_3040410000_01.jpg/150px-Npc_m_3040410000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Shiva (Summer)</name>
+	<element>light</element>
+	<image>https://gbf.wiki//images/thumb/5/51/Npc_m_3040352000_01.jpg/150px-Npc_m_3040352000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Siegfried (Summer)</name>
+	<element>water</element>
+	<image>https://gbf.wiki//images/thumb/1/18/Npc_m_3040344000_01.jpg/150px-Npc_m_3040344000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Siegfried (Yukata)</name>
+	<element>wind</element>
+	<image>https://gbf.wiki//images/thumb/9/9c/Npc_m_3040128000_01.jpg/150px-Npc_m_3040128000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Silva (Summer)</name>
+	<element>earth</element>
+	<image>https://gbf.wiki//images/thumb/7/7b/Npc_m_3040291000_01.jpg/150px-Npc_m_3040291000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Silva (Yukata)</name>
+	<element>fire</element>
+	<image>https://gbf.wiki//images/thumb/7/7b/Npc_m_3040391000_01.jpg/150px-Npc_m_3040391000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Sturm (Summer)</name>
+	<element>light</element>
+	<image>https://gbf.wiki//images/thumb/9/9a/Npc_m_3040415000_01.jpg/150px-Npc_m_3040415000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Tabina (Summer)</name>
+	<element>dark</element>
+	<image>https://gbf.wiki//images/thumb/c/ca/Npc_m_3040350000_01.jpg/150px-Npc_m_3040350000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Teena (Summer)</name>
+	<element>fire</element>
+	<image>https://gbf.wiki//images/thumb/1/1d/Npc_m_3040266000_01.jpg/150px-Npc_m_3040266000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Tikoh (Summer)</name>
+	<element>earth</element>
+	<image>https://gbf.wiki//images/thumb/0/02/Npc_m_3040414000_01.jpg/150px-Npc_m_3040414000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Vajra (Summer)</name>
+	<element>dark</element>
+	<image>https://gbf.wiki//images/thumb/6/6a/Npc_m_3040407000_01.jpg/150px-Npc_m_3040407000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Vikala (Summer)</name>
+	<element>earth</element>
+	<image>https://gbf.wiki//images/thumb/2/20/Npc_m_3040408000_01.jpg/150px-Npc_m_3040408000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Vira (Summer)</name>
+	<element>earth</element>
+	<image>https://gbf.wiki//images/thumb/d/d0/Npc_m_3040053000_01.jpg/150px-Npc_m_3040053000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Yngwie (Yukata)</name>
+	<element>wind</element>
+	<image>https://gbf.wiki//images/thumb/d/df/Npc_m_3040342000_01.jpg/150px-Npc_m_3040342000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Yuel (Summer)</name>
+	<element>wind</element>
+	<image>https://gbf.wiki//images/thumb/e/e5/Npc_m_3040210000_01.jpg/150px-Npc_m_3040210000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Zahlhamelina (Yukata)</name>
+	<element>light</element>
+	<image>https://gbf.wiki//images/thumb/7/75/Npc_m_3040349000_01.jpg/150px-Npc_m_3040349000_01.jpg</image>
+	</character>
+<character series="Summer/Yukata">
+	<name>Zeta (Summer)</name>
+	<element>light</element>
+	<image>https://gbf.wiki//images/thumb/6/63/Npc_m_3040056000_01.jpg/150px-Npc_m_3040056000_01.jpg</image>
+	</character>
+</characters>

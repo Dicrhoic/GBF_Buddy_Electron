@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accounts>
+    <account id="1">
+        <username>Dichroic</username>
+        <password>Dichroic</password>
+    </account>
+    <account id="2">
+        <username>Stormfathr</username>
+        <passowrd>Stormfathr</passowrd>
+    </account>
+    <account id="3">
+        <username>Angamaur</username>
+        <password>Angamaur</password>
+    </account>
+</accounts>
